@@ -2,9 +2,9 @@
 
 Welcome to Tic-Tac-Toe, a classic game implemented using JavaScript. This project provides a web-based interface for playing Tic-Tac-Toe against another player.
 
-The game is deployed and accessible at: [https://tictactoe-with-neeraj542.netlify.app/](https://tictactoe-with-neeraj542.netlify.app/)
+The game is deployed and accessible at: https://tic-tac-toe-lac-six-17.vercel.app/
 
-![image](https://github.com/neeraj542/Tic-Tac-Toe-A-Game-Project/assets/114648043/41aebf6f-ea1b-4dd3-8e71-1e765e4a8335)
+https://github.com/Deepthipriyanka004/Tic-Tac-Toe
 
 
 ## Installation
